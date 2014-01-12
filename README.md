@@ -3,6 +3,7 @@ student-promotions
 
 Companies offering relevant services (and occasionally, special deals) for students.
 
+Perks that are available to GA students at a global level can be found here: <a href="https://generalassemb.ly/alumni/perks">generalassemb.ly/alumni/perks</a>.
 
 <h3> Housing </h3>
 <ul>
